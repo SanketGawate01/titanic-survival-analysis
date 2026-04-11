@@ -49,10 +49,10 @@ To analyze patterns in the dataset and identify the most important features affe
 
 ## 📸 Visualizations
 
-![Survival Distribution](images/survival_distribution.png)
-![Gender Survival](images/gender_survival.png)
-![Class Survival](images/class_survival.png)
-
+![Survival](images/survival_distribution.png)
+![Gender](images/gender_survival.png)
+![Class](images/class_survival.png)
+![Age](images/age_distribution.png)
 ---
 
 ## 🛠️ Tech Stack
