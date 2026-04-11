@@ -1,4 +1,4 @@
-# EDA-1--Titanic
+ # EDA-1--Titanic
 Exploratory Data Analysis on Titanic dataset using Python, Pandas, and visualization to uncover survival patterns.
 # 🚢 Titanic Survival Analysis (EDA)
 
